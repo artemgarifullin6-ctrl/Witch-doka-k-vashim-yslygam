@@ -14,7 +14,7 @@
 .Исходный код первой программы (Процедурный подход)
 [source,cpp]
 ----
-#include "rccregisters.hpp" // for RCC
+#include "rccregisters.hpp" // for RCCм
 #include "gpioaregisters.hpp" // for GPIOA
 #include "gpiocregisters.hpp" // for GPIOC
 
